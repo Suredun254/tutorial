@@ -38,6 +38,8 @@ const Book = (props) => {
       <img src={img} alt="img" />
       <h1>{title}</h1>
       <h4>{author}</h4>
+      <h1>{title}</h1>
+      <h4>{author}</h4>
     </div>
   );
 };
