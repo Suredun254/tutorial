@@ -17,4 +17,40 @@ export const books = [
     author: "Charmaine Wilkerson",
     img: "https://images-na.ssl-images-amazon.com/images/I/51AuvKnaQzL._AC_SX184_.jpg",
   },
+  {
+    id: 4,
+    title: "The Ballad of Songbirds and Snakes",
+    author: "Suzanne Collins",
+    img: "https://images-na.ssl-images-amazon.com/images/I/51RYHlz+7OL._AC_SX184_.jpg",
+  },
+  {
+    id: 5,
+    title: "White Bird: A Novel: Based on the Graphic",
+    author: "R.J Palacio, Erica S. Perl",
+    img: "https://images-na.ssl-images-amazon.com/images/I/51i6KX4JNIL._AC_SX184_.jpg",
+  },
+  {
+    id: 6,
+    title: "Black Cake: A Novel",
+    author: "Charmaine Wilkerson",
+    img: "https://images-na.ssl-images-amazon.com/images/I/51AuvKnaQzL._AC_SX184_.jpg",
+  },
+  {
+    id: 7,
+    title: "The Ballad of Songbirds and Snakes",
+    author: "Suzanne Collins",
+    img: "https://images-na.ssl-images-amazon.com/images/I/51RYHlz+7OL._AC_SX184_.jpg",
+  },
+  {
+    id: 8,
+    title: "White Bird: A Novel: Based on the Graphic",
+    author: "R.J Palacio, Erica S. Perl",
+    img: "https://images-na.ssl-images-amazon.com/images/I/51i6KX4JNIL._AC_SX184_.jpg",
+  },
+  {
+    id: 9,
+    title: "Black Cake: A Novel",
+    author: "Charmaine Wilkerson",
+    img: "https://images-na.ssl-images-amazon.com/images/I/51AuvKnaQzL._AC_SX184_.jpg",
+  },
 ];

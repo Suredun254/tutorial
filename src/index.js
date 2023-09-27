@@ -5,4 +5,9 @@ import "./index.css";
 // stateless functional component
 // always return JSX
 
-ReactDOM.render(<App />, document.getElementById("root"));
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+  document.getElementById("root")
+);
