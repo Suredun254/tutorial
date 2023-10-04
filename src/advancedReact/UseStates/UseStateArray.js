@@ -18,7 +18,7 @@ const UseStateArray = () => {
         setPeople(newPeople);
       }, 2000);
       };
-    To have a delay in removing a person
+    To have a delay in removing a person using setTimeout
     ==================================
 */
     }

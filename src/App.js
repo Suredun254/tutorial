@@ -4,7 +4,9 @@ import React from "react";
 // import UseStateArray from "./advancedReact/UseStates/UseStateArray";
 // import UseStateObject from "./advancedReact/UseStates/UseStateObject";
 // import UseStateCounter from "./advancedReact/UseStates/UseStateCounter";
-import UseEffectBasics from "./advancedReact/UseEffect/UseEffectBasics";
+// import UseEffectBasics from "./advancedReact/UseEffect/UseEffectBasics";
+// import UseEfectCleanUp from "./advancedReact/UseEffect/UseEfectCleanUp";
+import UseEffectFetchData from "./advancedReact/UseEffect/UseEffectFetchData";
 const App = () => {
   return (
     <div>
@@ -13,7 +15,9 @@ const App = () => {
       {/* <UseStateArray /> */}
       {/* <UseStateObject /> */}
       {/* <UseStateCounter /> */}
-      <UseEffectBasics />
+      {/* <UseEffectBasics /> */}
+      {/* <UseEfectCleanUp /> */}
+      <UseEffectFetchData />
     </div>
   );
 };
