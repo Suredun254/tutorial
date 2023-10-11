@@ -9,7 +9,9 @@ import React from "react";
 // import UseEffectFetchData from "./advancedReact/UseEffect/UseEffectFetchData";
 // import ConditionalRendering from "./advancedReact/ConditionalRendering/ConditionalRendering";
 // import ShortCircuitEvaluation from "./advancedReact/ConditionalRendering/ShortCircuitEvaluation";
-import SHowHide from "./advancedReact/ConditionalRendering/SHowHide";
+// import SHowHide from "./advancedReact/ConditionalRendering/SHowHide";
+// import ControlledInputs from "./advancedReact/Forms/ControlledInputs";
+import MultipleInputs from "./advancedReact/Forms/MultipleInputs";
 const App = () => {
   return (
     <div>
@@ -23,7 +25,9 @@ const App = () => {
       {/* <UseEffectFetchData /> */}
       {/* <ConditionalRendering /> */}
       {/* <ShortCircuitEvaluation /> */}
-      <SHowHide />
+      {/* <SHowHide /> */}
+      {/* <ControlledInputs /> */}
+      <MultipleInputs />
     </div>
   );
 };
