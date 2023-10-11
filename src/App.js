@@ -6,7 +6,10 @@ import React from "react";
 // import UseStateCounter from "./advancedReact/UseStates/UseStateCounter";
 // import UseEffectBasics from "./advancedReact/UseEffect/UseEffectBasics";
 // import UseEfectCleanUp from "./advancedReact/UseEffect/UseEfectCleanUp";
-import UseEffectFetchData from "./advancedReact/UseEffect/UseEffectFetchData";
+// import UseEffectFetchData from "./advancedReact/UseEffect/UseEffectFetchData";
+// import ConditionalRendering from "./advancedReact/ConditionalRendering/ConditionalRendering";
+// import ShortCircuitEvaluation from "./advancedReact/ConditionalRendering/ShortCircuitEvaluation";
+import SHowHide from "./advancedReact/ConditionalRendering/SHowHide";
 const App = () => {
   return (
     <div>
@@ -17,7 +20,10 @@ const App = () => {
       {/* <UseStateCounter /> */}
       {/* <UseEffectBasics /> */}
       {/* <UseEfectCleanUp /> */}
-      <UseEffectFetchData />
+      {/* <UseEffectFetchData /> */}
+      {/* <ConditionalRendering /> */}
+      {/* <ShortCircuitEvaluation /> */}
+      <SHowHide />
     </div>
   );
 };
