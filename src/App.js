@@ -11,7 +11,8 @@ import React from "react";
 // import ShortCircuitEvaluation from "./advancedReact/ConditionalRendering/ShortCircuitEvaluation";
 // import SHowHide from "./advancedReact/ConditionalRendering/SHowHide";
 // import ControlledInputs from "./advancedReact/Forms/ControlledInputs";
-import MultipleInputs from "./advancedReact/Forms/MultipleInputs";
+// import MultipleInputs from "./advancedReact/Forms/MultipleInputs";
+import UseRefBasics from "./advancedReact/UseRef/UseRefBasics";
 const App = () => {
   return (
     <div>
@@ -27,7 +28,8 @@ const App = () => {
       {/* <ShortCircuitEvaluation /> */}
       {/* <SHowHide /> */}
       {/* <ControlledInputs /> */}
-      <MultipleInputs />
+      {/* <MultipleInputs />*/}
+      <UseRefBasics />
     </div>
   );
 };
