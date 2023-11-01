@@ -1,10 +1,10 @@
 import React from "react";
 
-import CustomHooks from "./advancedReact/CustomHooks/CustomHooks";
+import Index from "./advancedReact/PropTypes/Index";
 const App = () => {
   return (
     <div className="maindiv">
-      <CustomHooks />
+      <Index />
     </div>
   );
 };
