@@ -1,10 +1,10 @@
 import React from "react";
 
-import ContextAPI from "./advancedReact/UseContext/ContextAPI";
+import CustomHooks from "./advancedReact/CustomHooks/CustomHooks";
 const App = () => {
   return (
     <div className="maindiv">
-      <ContextAPI />
+      <CustomHooks />
     </div>
   );
 };
